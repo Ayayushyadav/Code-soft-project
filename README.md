@@ -1,1 +1,1 @@
-# Cod-soft-project
+# Code-soft-project
